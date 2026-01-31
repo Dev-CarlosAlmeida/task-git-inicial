@@ -1,9 +1,5 @@
 # 📌 Guia de Tarefas do Repositório
 
-<<<<<<< Updated upstream
-Alteração feita na branch feature/readme-inicial para permitir Pull Request.
-testando 
-=======
 ## 🤝 Contexto do Projeto
 
 Este repositório faz parte de um **trabalho colaborativo entre amigos**, com foco em **aprendizado prático de Git e GitHub em um ambiente que simula o contexto real de uma empresa**.
@@ -318,4 +314,3 @@ Este repositório **não possui uma conclusão final**, pois faz parte de um pro
 Novas tasks, melhorias de estrutura, ajustes de fluxo e boas práticas serão adicionados conforme o avanço dos estudos e das simulações de trabalho em equipe, refletindo o que ocorre em ambientes reais de desenvolvimento de software.
 
 O objetivo é manter o projeto vivo, evolutivo e alinhado às práticas utilizadas por equipes profissionais.
->>>>>>> Stashed changes
